@@ -1,0 +1,66 @@
+{
+  "local_gamepad_index": 0,
+  "remote_gamepads": [
+    {
+      "host": "192.168.178.40",
+      "port": 33010,
+      "index": 0,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F19",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 15, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33011,
+      "index": 1,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F20",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 15, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33012,
+      "index": 2,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F21",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 15, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33013,
+      "index": 3,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F22",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 15, 15]
+      }
+    }
+  ],
+  "tinkerforge": {
+    "host": "localhost",
+    "port": 4223,
+    "linear_poti": {
+      "uid": "LP2",
+      "upper_threshold": 95,
+      "lower_threshold": 5
+    }
+  }
+}

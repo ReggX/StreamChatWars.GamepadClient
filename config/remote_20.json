@@ -1,0 +1,274 @@
+{
+  "local_gamepad_index": 0,
+  "remote_gamepads": [
+    {
+      "host": "192.168.178.40",
+      "port": 33010,
+      "index": 0,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F19",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 0, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33011,
+      "index": 1,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F20",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 0, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33012,
+      "index": 2,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F21",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 0, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33013,
+      "index": 3,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F22",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [1, 1, 1],
+        "color_on": [15, 0, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33014,
+      "index": 4,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F23",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 15, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33015,
+      "index": 5,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left shift+F24",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 15, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33016,
+      "index": 6,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F19",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 15, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33017,
+      "index": 7,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F20",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 15, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33018,
+      "index": 8,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F21",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 0, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33019,
+      "index": 9,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F22",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 0, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33020,
+      "index": 10,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F23",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 0, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33021,
+      "index": 11,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left ctrl+F24",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 0, 15]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33022,
+      "index": 12,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F19",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [0, 0, 0],
+        "color_on": [7, 7, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33023,
+      "index": 13,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F20",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [0, 0, 0],
+        "color_on": [7, 7, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33024,
+      "index": 14,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F21",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [0, 0, 0],
+        "color_on": [7, 7, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33025,
+      "index": 15,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F22",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [0, 0, 0],
+        "color_on": [7, 7, 0]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33026,
+      "index": 16,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F23",
+      "rgb_button": {
+        "uid": "Rb1",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 7, 7]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33027,
+      "index": 17,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "left alt+F24",
+      "rgb_button": {
+        "uid": "Rb2",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 7, 7]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33028,
+      "index": 18,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "right shift+F19",
+      "rgb_button": {
+        "uid": "Rb3",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 7, 7]
+      }
+    },
+    {
+      "host": "192.168.178.40",
+      "port": 33029,
+      "index": 19,
+      "encryption_key": "",
+      "encryption_mode": "AES-GCM",
+      "hotkey": "right shift+F20",
+      "rgb_button": {
+        "uid": "Rb4",
+        "color_off": [0, 0, 0],
+        "color_on": [0, 7, 7]
+      }
+    }
+  ],
+  "tinkerforge": {
+    "host": "localhost",
+    "port": 4223,
+    "linear_poti": {
+      "uid": "LP2",
+      "upper_threshold": 95,
+      "lower_threshold": 5
+    }
+  }
+}
